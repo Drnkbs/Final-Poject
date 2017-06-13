@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name Connectors)(type KiCad)(uri "$(KISYSMOD)\\Connectors.pretty")(options "")(descr ""))
+  (lib (name Converters_DCDC_ACDC)(type KiCad)(uri "$(KISYSMOD)\\Converters_DCDC_ACDC.pretty")(options "")(descr ""))
+  (lib (name SMD7805)(type KiCad)(uri "$(KIPRJMOD)\\SMD7805.pretty")(options "")(descr ""))
+  (lib (name JP1)(type KiCad)(uri "$(KIPRJMOD)\\JP1.pretty")(options "")(descr ""))
+  (lib (name THT-7805)(type KiCad)(uri "$(KIPRJMOD)\\THT-7805.pretty")(options "")(descr ""))
+  (lib (name 7805)(type KiCad)(uri "$(KIPRJMOD)\\7805.pretty")(options "")(descr ""))
+  (lib (name THT-78XX)(type KiCad)(uri "$(KIPRJMOD)\\THT-78XX.pretty")(options "")(descr ""))
+  (lib (name TIP-XXX)(type KiCad)(uri "$(KIPRJMOD)\\TIP-XXX.pretty")(options "")(descr ""))
+  (lib (name JP-X)(type KiCad)(uri "$(KIPRJMOD)\\JP-X.pretty")(options "")(descr ""))
+  (lib (name 78XX)(type KiCad)(uri "$(KIPRJMOD)\\78XX.pretty")(options "")(descr ""))
+)

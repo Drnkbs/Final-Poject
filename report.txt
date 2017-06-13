@@ -1,0 +1,4 @@
+Plot: 'C:\Users\user\Desktop\PCB\Final Project\Final Project-F.Cu.svg' OK.
+Plot: 'C:\Users\user\Desktop\PCB\Final Project\Final Project-B.Cu.svg' OK.
+Plot: 'C:\Users\user\Desktop\PCB\Final Project\Final Project-B.SilkS.svg' OK.
+Plot: 'C:\Users\user\Desktop\PCB\Final Project\Final Project-F.SilkS.svg' OK.

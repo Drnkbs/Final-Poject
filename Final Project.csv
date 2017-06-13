@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C2,C4,C3";"CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal";3;"100nF";;;
+2;"Q1,Q2,Q3,Q4";"TO-92_Molded_Narrow";4;"BC557";;;
+3;"C1";"CP_Radial_Tantal_D8.0mm_P2.50mm";1;"470uF";;;
+4;"D1,D2,D3,D5,D6";"D_A-405_P10.16mm_Horizontal";5;"1N4001";;;
+5;"D4";"LED_D8.0mm";1;"LED";;;
+6;"P1";"PINHEAD1-2";1;"POWER";;;
+7;"P2";"PINHEAD1-3";1;"SENSOR";;;
+8;"P3";"PINHEAD1-2";1;"PUMP";;;
+9;"R1,R2,R5,R6";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";4;"470k";;;
+10;"R3,R4,R7,R8";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";4;"3k";;;
+11;"R9,R10,R12";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";3;"10k";;;
+12;"R11";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"560";;;
+13;"U2";"DIP-14_W7.62mm";1;"4011";;;
+14;"JP1";"JP-X";1;"LED ON/OFF";;;
+15;"Q5";"TO-280_Vertical";1;"TIP120";;;
+16;"U1";"78XXX";1;"7805";;;
